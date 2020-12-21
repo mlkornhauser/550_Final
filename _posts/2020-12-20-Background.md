@@ -5,12 +5,12 @@ published: true
 tags: [dataviz, altair]
 excerpt: "Looking at business patterns and COVID-19 data"
 altair-loader:
-  altair-chart-1: "charts/COVID_summary.json"
+  altair-chart-1: "charts/COVID_summary.json  =800x300"
 toc: true
 toc_sticky: true
 ---
 
-#Introduction
+# Introduction
 
 This project explores how businesses in the 20 largest U.S. cities were impacted by the first six months of the COVID-19 pandemic.
 
