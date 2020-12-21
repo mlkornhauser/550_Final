@@ -6,8 +6,8 @@ tags: [dataviz, altair]
 excerpt: "Looking at business patterns and COVID-19 data"
 altair-loader:
   altair-chart-1: "charts/COVID_summary.json"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 # Introduction
