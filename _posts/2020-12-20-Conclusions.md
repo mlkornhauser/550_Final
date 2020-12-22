@@ -10,8 +10,6 @@ toc: false
 toc_sticky: false
 ---
 
-# Introduction
-
 <div id="altair-chart-1"></div>
 
 Though the scope of this study is fairly limited, the comparison has revealed some interesting findings.
