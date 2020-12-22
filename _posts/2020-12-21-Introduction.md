@@ -12,8 +12,6 @@ toc_sticky: true
 
 <div id="altair-chart-1"></div>
 
-## Introduction:
-
 This project investigates how the first six months of the coronavirus (COVID-19) pandemic impacted businesses in top U.S. cities. By analyzing weekly foot traffic across cities from March to August 2020, I discuss the effects of government stay-at-home orders on a variety of businesses and analyzes how business traffic relates to COVID-19 infections. I work with data on the 20 largest U.S. cities, with a special focus on the following:
 
 *	Denver, Colorado (Denver County)
@@ -31,7 +29,7 @@ With regards to the COVID-19 data, I primarily used information from the New Yor
 
 Finally, I used city population data from Wikipedia and various qualitative sources to determine the dates of stay-at-home orders in each city.
 
-## Data Cleaning Process & Assumptions
+## Data Cleaning & Assumptions
 
 Because the SafeGraph data is so extensive, it was challenging to get it into a usable form. I first downloaded the weekly datasets to my local computer. I next filtered each week for the study cities and relevant variables. I then concatenated the filtered weeks into a monthly dataset and exported the monthly dataset into a new csv. 
 
