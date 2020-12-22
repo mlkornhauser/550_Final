@@ -17,7 +17,7 @@ toc_sticky: true
 
 ## Foot Traffic & COVID-19 Cases by City
 
-I selected six cities to conduct an in-depth review of foot traffic by business type and investigate how these trends relate to local COVID-19 case counts. I selected cities from diverse regions of the country that demonstrated different patterns in infection rates and business traffic based on the exploratory analysis.  The six cities include:
+I selected six cities to conduct an in-depth review of foot traffic by business type and investigate how these trends relate to local COVID-19 case counts. I chose cities from diverse regions of the country that demonstrated different patterns in infection rates and business traffic based on the exploratory analysis.  The six cities include:
 
 *	Denver, Colorado
 *	Houston, Texas
@@ -41,7 +41,7 @@ For each of the six cities, I reviewed foot traffic by business type to compare 
 
 This analysis also shows the duration of a city’s stay-at-home order with two gray lines. The solid line indicates the start of the stay-at-home order and the dotted line indicates when the reopening phase began. In addition to observing variation across stay-at-home orders, the patterns in foot traffic show where there was greater compliance with the lockdown. These charts do not account for variation among stay-at-home orders with certain cities' restrictions being more stringent than others.
 
-## Denver Colorado
+## Denver, Colorado
 
 Before the pandemic, full-service restaurants were the main driver of foot traffic in Denver, with fitness centers, malls and limited service restaurants also reporting substantial traffic. With the start of the pandemic started in mid-March, there was a clear drop in foot traffic, even before the stay-at-home order went into effect. Foot traffic recovered somewhat after the reopening phase, but not to the pre-pandemic levels. The end of the stay-at-home order appears to coincide with a fairly consistent rise in COVID-19. While the stay-at-home order did not appear to be particularly effective at curtailing the infection rate, Denver was successful in managing COVID-19 cases for the first six months of the pandemic.
 
@@ -55,15 +55,15 @@ While Houston had a longer stay-at-home order than Denver, there seemed to be le
 
 ## Jacksonville, Florida
 
-Of the six cities, Jacksonville had both the latest and the shortest stay-at-home order. Despite the relatively short lockdown period, the below heatmap indicates that there was still ample foot traffic during the lockdown period, particularly in malls, limited-service restaurants, and general merchandise stores. Full-service restaurants did, however, experience a substantial loss of traffic.
+Of the six cities, Jacksonville had the latest and the shortest stay-at-home order. Despite the relatively short lockdown period, the below heatmap indicates that there was still ample foot traffic during the lockdown period, particularly in malls, limited-service restaurants, and general merchandise stores. Full-service restaurants did, however, experience a substantial loss of traffic.
 
-Interestingly, the end of the short stay-at-home order did not seem to have an impact on COVID-19 cases. Jacksonville’s outbreak occurred about 6 weeks after the stay-at-home period, suggesting that the city kept its infection rate under control without these restrictions. The outbreak does appear to correlate with an increase in foot traffic at malls and restaurants and as cases continued climb throughout the summer, this traffic remained relatively constant. Jacksonville was also on the lower end of mask compliance, with only about 60% of survey respondents indicating that they always wore a mask, and nearly 10% indicating that they rarely or never wore a mask. 
+Interestingly, the end of the short stay-at-home order did not seem to have an impact on COVID-19 cases. Jacksonville’s outbreak occurred about 6 weeks after the stay-at-home period, suggesting that the city kept its infection rate under control without these restrictions. The outbreak does appear to correspond with an increase in foot traffic at malls and restaurants and as cases continued climb throughout the summer, this traffic remained relatively constant. Jacksonville was also on the lower end of mask compliance, with only about 60% of survey respondents indicating that they always wore a mask, and nearly 10% indicating that they rarely or never wore a mask. 
 
 <div id="altair-chart-3"></div>
 
 ## Philadelphia, Pennsylvania
 
-Philadelphia is notable in the high share of its foot traffic related to people frequenting full-service restaurants. The rapid drop in restaurants traffic started in mid-March and continued during the stay-at home order, suggesting that the city's restrictions on restaurants may have an outsized effect on Philadelphia businesses. Customers did return to restaurants as the reopening phase began, but not only at about 50% capacity. 
+Philadelphia is notable in the high share of its foot traffic related to people frequenting full-service restaurants. The rapid drop in restaurants traffic started in mid-March and continued during the stay-at home order, suggesting that the city's restrictions on restaurants had an outsized effect on Philadelphia business overall. Customers did return to restaurants as the reopening phase began, but only at about 50% capacity. 
 
 <div id="altair-chart-4"></div>
 
@@ -75,6 +75,6 @@ Phoenix has a similar trajectory to Jacksonville, Florida where the stay-at-home
 
 ## San Francisco, California
 
-Like Philadelphia, San Francisco foot traffic was largely driven by visits to full-service restaurants. Other important sectors included fitness and recreation centers, as well as hotels. While San Francisco instituted their stay-at-home order very early, before they even had reported cases, they experienced a steady rate of infection and then an uptick later in the summer about a month after the reopening phase began. As noted above, San Francisco also has the highest adoption of mask use of any study city.
+Like Philadelphia, San Francisco foot traffic was largely driven by visits to full-service restaurants. Other important business types included fitness and recreation centers, as well as hotels. While San Francisco instituted their stay-at-home order very early, before they even had reported cases, they experienced a steady rate of infection and then an uptick later in the summer about a month after the reopening phase began. As noted above, San Francisco also has the highest adoption of mask use of any study city.
 
 <div id="altair-chart-6"></div>
