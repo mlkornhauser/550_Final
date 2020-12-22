@@ -6,11 +6,13 @@ tags: [dataviz, altair, COVID-19, SafeGraph]
 excerpt: "Key findings from analyzing weekly foot traffic & COVID-19 rates"
 altair-loader:
   altair-chart-1: "charts/chart_Summary.json"
-toc: false
-toc_sticky: false
+toc: true
+toc_sticky: true
 ---
 
 <div id="altair-chart-1"></div>
+
+## Key Findings
 
 Though the scope of this project has been limited, the city comparison has revealed some interesting findings.
 
@@ -21,6 +23,8 @@ Though the scope of this project has been limited, the city comparison has revea
 * **Full-service restaurants drive a substantial portion of foot traffic in all cities**. These establishments have also faced the largest reduction in traffic overall. While eating indoors is a high-risk activity and these restrictions has been a necessary step in containing the virus spread, this trend is quite worrisome for cities. With full-service restaurants accounting for a substantial share of foot traffic in cities and many restaurants struggling to stay afloat during 2020, it begs the question if they will be able to recover this foot traffic after the pandemic. Depending on the region of the U.S., malls also appear to be quite a popular destination. Malls, on the other hand, have not appeared to suffer from the drastic decrease in foot traffic.
 
 * **Mask use is not consistent** across major U.S. cities, but it appears that the majority of residents wear a mask when in close proximity to other people. Since the data only provides a snapshot of mask wearing in July 2020, it is hard to tell from this analysis how much mask compliance contributed to outbreaks across the cities.
+
+## Continued Research
 
 Going forward, there are numerous ways to expand this research. It would be interesting to include more cities in the analysis or experiment with other groupings, such as urban and rural areas. As large cities tend to be more progressive, they likely had similar approaches to COVID-19 management. Almost all of the cities instituted early lockdowns and have a relatively high rate of mask wearing. Rural areas were generally more resistant to the pandemic restrictions, so it would be insightful to study and understand those differences.  
 
