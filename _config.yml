@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "Taking 2020's Temperature: Visualzing business & COVID data with heatmaps"
+title: "Taking the Temperature: Visualizing Business Foot Traffic with Heatmaps During the COVID-19 Pandemic"
 title_separator: "-"
 name: "Maddy Kornhauser"
 description: "Final project for Geospatial Data Science at the University of Pennsylvania"
