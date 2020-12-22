@@ -3,7 +3,7 @@ title: "Individual City Analysis"
 date: 2020-12-21
 published: true
 tags: [dataviz, altair, COVID-19, SafeGraph]
-excerpt: "Analyzing foot traffic by business type"
+excerpt: "A focused review of foot traffic by business type and COVID cases in a selection of 6 U.S. cities."
 altair-loader:
   altair-chart-1: "charts/dash_Denver.json"
   altair-chart-2: "charts/dash_Houston.json"
