@@ -14,7 +14,7 @@ toc: true
 toc_sticky: true
 ---
 
-## COVID-19 cases and deaths by city
+## COVID-19 Cases and Deaths by City
 
 <div id="altair-chart-5"></div>
 
