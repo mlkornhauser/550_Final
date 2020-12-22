@@ -16,10 +16,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "Taking the Temperature: Visualizing Business Foot Traffic with Heatmaps During the COVID-19 Pandemic"
+title: "Taking the Temperature: Visualizing Business Foot Traffic During COVID-19 with Heatmaps"
 title_separator: "-"
 name: "Maddy Kornhauser"
-description: "Final project for Geospatial Data Science at the University of Pennsylvania"
+description: "Final project for MUSA 550: Geospatial Data Science at the University of Pennsylvania"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name: "Maddy Kornhauser"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/Maddy Kornhauser Photo_small.jpg"
   bio: "Masters of City Planning Candidate at the University of Pennsylvania"
   location: "Philadelphia"
   email:
