@@ -1,18 +1,18 @@
 ---
-title: "Conclusions & Opportunities for More Research"
+title: "Conclusions & Opportunities for Continued Analysis"
 date: 2020-12-20
 published: true
 tags: [dataviz, altair, COVID-19, SafeGraph]
 excerpt: "Key findings from analyzing weekly foot traffic & COVID-19 rates"
 altair-loader:
   altair-chart-1: "charts/chart_Summary.json"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 # Introduction
 
-<id="altair-chart-1"></div>
+<div id="altair-chart-1"></div>
 
 Though the scope of this study is fairly limited, the comparison has revealed some interesting findings.
 
