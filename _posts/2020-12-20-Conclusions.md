@@ -3,7 +3,7 @@ title: "Conclusions & Opportunities for Continued Analysis"
 date: 2020-12-18
 published: true
 tags: [dataviz, altair, COVID-19, SafeGraph]
-excerpt: "Discussion on the effectiveness of stay-at-home orders, restaurant restrictions and further research."
+excerpt: "Discussion on the effectiveness of stay-at-home orders, restaurant restrictions, and further research."
 altair-loader:
   altair-chart-1: "charts/chart_Summary.json"
 toc: true
