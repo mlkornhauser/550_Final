@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## Welcome
 
-This project investigates how the first six months of the coronavirus (COVID-19) pandemic impacted businesses in top U.S. cities. By analyzing weekly foot traffic across cities from March to August 2020, I assess the effectiveness of government stay-at-home orders on businesses and COVID-19 outcomes. This review is focused on the 20 largest U.S. cities, with a special focus on the following:
+This project investigates how the first six months of the coronavirus (COVID-19) pandemic impacted businesses in top U.S. cities. By analyzing weekly foot traffic across cities from March to August 2020, I assess the effectiveness of government stay-at-home orders on businesses and COVID-19 outcomes. This review looks at the 20 largest U.S. cities, with a special focus on the following:
 
 *	Denver, Colorado (Denver County)
 *	Houston, Texas (Harris County)
