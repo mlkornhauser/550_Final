@@ -73,7 +73,7 @@ Phoenix has a similar trajectory to Jacksonville, Florida where the stay-at-home
 
 <div id="altair-chart-5"></div>
 
-## San Francisco
+## San Francisco, California
 
 Like Philadelphia, San Francisco foot traffic was largely driven by visits to full-service restaurants. Other important sectors included fitness and recreation centers, as well as hotels. While San Francisco instituted their stay-at-home order very early, before they even had reported cases, they experienced a steady rate of infection and then an uptick later in the summer about a month after the reopening phase began. As noted above, San Francisco also has the highest adoption of mask use of any study city.
 
