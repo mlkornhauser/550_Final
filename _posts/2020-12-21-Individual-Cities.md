@@ -1,6 +1,6 @@
 ---
 title: "Individual City Analysis"
-date: 2020-12-20
+date: 2020-12-21
 published: true
 tags: [dataviz, altair, COVID-19, SafeGraph]
 excerpt: "Analyzing foot traffic by business type"
