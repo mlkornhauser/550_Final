@@ -21,11 +21,11 @@ This project investigates how the first six months of the coronavirus (COVID-19)
 
 ## Data Used
 
-To capture foot traffic by city, I used [SafeGraph’s Weekly Patterns] (https://docs.safegraph.com/docs/weekly-patterns), an aggregated dataset collected from mobile devices on visitor data to various places across the country. Additionally, I incorporated [SafeGraph’s Core Places dataset] (https://docs.safegraph.com/docs#section-core-places) to group the Weekly Patterns information by business type.
+To capture foot traffic by city, I used [SafeGraph’s Weekly Patterns](https://docs.safegraph.com/docs/weekly-patterns), an aggregated dataset collected from mobile devices on visitor data to various places across the country. Additionally, I incorporated [SafeGraph’s Core Places dataset](https://docs.safegraph.com/docs#section-core-places) to group the Weekly Patterns information by business type.
 
-With regards to the COVID-19 data, I primarily used information from the [New York Times COVID-19 data repository on GitHub] (https://github.com/nytimes/covid-19-data). In particular, I look at the [COVID-19 by Counties] (https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv) dataset and the [July Mask-Wearing Survey] (https://github.com/nytimes/covid-19-data/tree/master/mask-use). The county dataset compiles cumulative counts of COVID-19 cases and deaths across the country. The Mask-Wearing data reports how likely residents across the U.S. are to wear a mask. In total, the survey collected 250,000 online responses between July 2 and July 14, 2020. 
+With regards to the COVID-19 data, I primarily used information from the [New York Times COVID-19 data repository on GitHub](https://github.com/nytimes/covid-19-data). In particular, I look at the [COVID-19 by Counties](https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv) dataset and the [July Mask-Wearing Survey](https://github.com/nytimes/covid-19-data/tree/master/mask-use). The county dataset compiles cumulative counts of COVID-19 cases and deaths across the country. The Mask-Wearing data reports how likely residents across the U.S. are to wear a mask. In total, the survey collected 250,000 online responses between July 2 and July 14, 2020. 
 
-Finally, I used [city population data from Wikipedia] (https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population) and various qualitative sources to determine the dates of stay-at-home orders in each city.
+Finally, I used [city population data from Wikipedia](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population) and various qualitative sources to determine the dates of stay-at-home orders in each city.
 
 ## Data Cleaning & Assumptions
 
