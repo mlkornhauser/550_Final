@@ -9,10 +9,14 @@ altair-loader:
   altair-chart-2: "charts/facet_deaths.json"
   altair-chart-3: "charts/COVID_Masks.json"
   altair-chart-4: "charts/foot_traffic.json"
+  altair-chart-5: "charts/COVID_summary.json"
 toc: true
 toc_sticky: true
 ---
+
 ## COVID-19 cases and deaths by city
+
+<div id="altair-chart-5"></div>
 
 I reviewed patterns of COVID-19 cases and deaths per 10 thousand residents by city. During the first six months of the pandemic, COVID-19 impacted cities differently. New York City had a very steep curve in March mirroring the area’s early outbreak, but leveled off by the middle of the summer. Southwestern and southern counties, such as Harris County (Houston) in Texas, Maricopa Count (Phoenix) in Arizona, and Duval County (Jacksonville) in Florida, all remained relatively flat until the middle of summer when the infection rates drastically increased. 
 
