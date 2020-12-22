@@ -1,9 +1,9 @@
 ---
 title: "Conclusions & Opportunities for Continued Analysis"
-date: 2020-12-20
+date: 2020-12-18
 published: true
 tags: [dataviz, altair, COVID-19, SafeGraph]
-excerpt: "Key findings from analyzing weekly foot traffic & COVID-19 rates"
+excerpt: "Discussion on the effectiveness of stay-at-home orders, restaurant restrictions and further research."
 altair-loader:
   altair-chart-1: "charts/chart_Summary.json"
 toc: true
