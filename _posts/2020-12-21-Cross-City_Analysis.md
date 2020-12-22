@@ -3,7 +3,7 @@ title: "Exploratory Analysis"
 date: 2020-12-22
 published: true
 tags: [dataviz, altair, COVID-19, SafeGraph]
-excerpt: "Understanding the COVID-19 and foot traffic trends across the largest 20 U.S. cities."
+excerpt: "Understanding the general trends in COVID-19 cases and foot traffic across the 20 largest U.S. cities."
 altair-loader:
   altair-chart-1: "charts/facet_cases.json"
   altair-chart-2: "charts/facet_deaths.json"
