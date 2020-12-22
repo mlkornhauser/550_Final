@@ -3,7 +3,7 @@ title: "Introduction"
 date: 2020-12-22
 published: true
 tags: [dataviz, altair, COVID-19, SafeGraph]
-excerpt: "How have businesses in major U.S. cities been impacted by stay-at-home orders during the COVID-19 pandemic?"
+excerpt: "How have businesses in major U.S. cities been impacted by stay-at-home orders and a reduction in foot traffic during the COVID-19 pandemic?"
 altair-loader:
   altair-chart-1: "charts/COVID_summary.json"
 toc: true
