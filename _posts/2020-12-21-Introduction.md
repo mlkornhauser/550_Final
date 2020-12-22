@@ -36,5 +36,3 @@ Because the SafeGraph data is so extensive, it was challenging to get it into a 
 Another challenge is that the SafeGraph provides information at the city level while the New York Times COVID-19 dataset look at the county level. For the purposes of this project, I assumed that the county-level data was representative of the relevant city’s COVID-19 infection rates.
 
 For the stay-at-home orders, these visualizations capture when the order first went into effect and when the order expired and businesses were permitted to reopen. Additionally, not all cities mandated a stay-at-home order and relied on the state-level restrictions, as was the case for Phoenix, Arizona. In this case, the charts represent the state-level orders.
-
-<div id="altair-chart-1"></div>
